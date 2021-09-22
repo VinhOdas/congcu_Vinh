@@ -45,7 +45,8 @@ def InsertArr(M,n,k,x):
     n = n +1
     return n
 
-
+//oke
+//oke2
 def Input(x):
     try:
         n = int(input("Nhap "+x+": "))
